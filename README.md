@@ -21,7 +21,7 @@ Atualmente estou em busca de novos desafios e oportunidades que permitam utiliza
 ## Projetos:
 Veja meus projetos publicados:
 
-* **Em construção...**
+* **[Análise dos Dados do Airbnb (Bangkok)](https://github.com/monteiro-fernando/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_(Bangkok).ipynb)**
 
 ---
 
